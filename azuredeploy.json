@@ -33,10 +33,6 @@
     },
     "Deploy App Insights": {
       "type": "bool",
-      "allowedValues": [
-        true,
-        false
-      ],
       "defaultValue": false
     },
     "Email Service": {
